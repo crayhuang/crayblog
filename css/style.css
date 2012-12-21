@@ -1,0 +1,16 @@
+.list-odd
+{
+	background-color: #D9EDF7;
+}
+
+.left
+{
+	text-align:left;
+	margin-left:0px;
+}
+
+.right
+{
+	text-align:right;
+	margin-right:0px;
+}
